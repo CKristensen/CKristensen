@@ -1,7 +1,7 @@
 Hi there 👋
 
 - 🔭 Born in Norway, made in Portugal.
-- 🌱 I’m currently learning Data Science and Engineering
+- 🌱 Into Data Engineering
 - 💬 Ask me about SQL, python, pandas, regex
 
 Stack overflow:
@@ -12,6 +12,5 @@ https://www.linkedin.com/in/carl-kris/
 
 Hacker Rank:
 https://www.hackerrank.com/cjckris
-
 
 Location: Oslo, Norway
